@@ -38,7 +38,6 @@ namespace Aula_Coletto_Switch_Case
                         Console.WriteLine("O mês de {0} tem 28 dias ", month.ToLower());
                         break;
                 }
-                Console.ReadKey();
             }
 
             void IndicaSeImparOuPar()
@@ -100,8 +99,6 @@ namespace Aula_Coletto_Switch_Case
                         Console.WriteLine("O prof. {0} ministra Programação Estruturada, IHC e Lógica de Programação.", profName);
                         break;
                 }
-                
-
             }
 
             // IndicaMes();
